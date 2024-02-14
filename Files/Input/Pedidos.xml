@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<Pedidos>
+    <Producto>Helado</Producto>
+    <Producto>Galletas</Producto>
+    <Producto>Gomitas</Producto>
+    <Producto>Cerveza</Producto>
+    <Producto>Chocolate</Producto>
+    <Producto>Pastel</Producto>
+    <Producto>Caramelos</Producto>
+    <Producto>Pizza</Producto>
+</Pedidos>
+
